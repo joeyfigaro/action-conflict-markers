@@ -1,0 +1,7 @@
+[package]
+authors = ["Joey Figaro shh@joeyfigaro.com"]
+name = "action-conflict-markers"
+description = "Search a list of changed files for the presence of conflict markers"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.67"
